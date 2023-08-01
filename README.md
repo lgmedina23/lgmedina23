@@ -9,6 +9,7 @@
 - CSS
   - Boostrap
 - JavaScript
+- Git & GitHub
 
   
 ### All thanks to:
