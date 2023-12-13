@@ -1,15 +1,24 @@
 # Hi there 👋
 
-- 🌱 I’m currently learning at [4geeksAcademy](https://4geeks.com)
-- 📫 How to reach me: abg.lgmm@gmail.com
+- 🌱 Software Developer Full Stack
+- 📫 You can to reach me at: abg.lgmm@gmail.com
 
-### technology
+### technologies I know
 
 - HTML
 - CSS
-  - Boostrap
+- Boostrap
 - JavaScript
+- React.js
 - Git & GitHub
+- Command Line
+- Rest Api
+- SQL
+- Python
+- Flask
+- SQLAlchemy
+- Data Modeling
+- JWT
 
   
 ### All thanks to:
