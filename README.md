@@ -3,7 +3,7 @@
 - 🌱 Software Developer Full Stack
 - 📫 You can to reach me at: abg.lgmm@gmail.com
 
-### technologies I know
+### Technologies I know
 
 - HTML
 - CSS
