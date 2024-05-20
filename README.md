@@ -1,10 +1,14 @@
 # Hi there 👋
 
-- 🌱 Software Developer Full Stack
+- 🌱 Full Stack Software Developer
 - 📫 You can to reach me at: abg.lgmm@gmail.com
 
 ### Technologies I know
 
+- React Native
+- AWS
+- Detox
+- TypeScript
 - HTML
 - CSS
 - Boostrap
@@ -19,7 +23,3 @@
 - SQLAlchemy
 - Data Modeling
 - JWT
-
-  
-### All thanks to:
-<img src="image/4geeksLogo.png" alt="Logo de 4geeks">
